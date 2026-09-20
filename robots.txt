@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qiulaof.github.io/yandexab/sitemap.xml
